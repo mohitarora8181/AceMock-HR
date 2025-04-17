@@ -89,8 +89,8 @@ export const questions: Question[] = [
 export const students: Student[] = [
   {
     id: "s1",
-    name: "Alex Johnson",
-    email: "alex.johnson@email.com",
+    name: "Arjun Patel",
+    email: "arjun.patel@email.com",
     phoneNumber: "(555) 123-4567",
     appliedPosition: "Frontend Developer",
     interviewDate: "2025-04-15T10:00:00",
@@ -99,8 +99,8 @@ export const students: Student[] = [
   },
   {
     id: "s2",
-    name: "Samantha Lee",
-    email: "samantha.lee@email.com",
+    name: "Priya Sharma",
+    email: "priya.sharma@email.com",
     phoneNumber: "(555) 234-5678",
     appliedPosition: "Backend Developer",
     interviewDate: "2025-04-16T14:30:00",
@@ -109,8 +109,8 @@ export const students: Student[] = [
   },
   {
     id: "s3",
-    name: "David Wang",
-    email: "david.wang@email.com",
+    name: "Rahul Verma",
+    email: "rahul.verma@email.com",
     phoneNumber: "(555) 345-6789",
     appliedPosition: "Full Stack Developer",
     interviewDate: "2025-04-17T11:00:00",
@@ -118,8 +118,8 @@ export const students: Student[] = [
   },
   {
     id: "s4",
-    name: "Rachel Kim",
-    email: "rachel.kim@email.com",
+    name: "Neha Gupta",
+    email: "neha.gupta@email.com",
     phoneNumber: "(555) 456-7890",
     appliedPosition: "UI/UX Designer",
     interviewDate: "2025-04-18T13:00:00",
@@ -127,8 +127,8 @@ export const students: Student[] = [
   },
   {
     id: "s5",
-    name: "Michael Brown",
-    email: "michael.brown@email.com",
+    name: "Vikram Singh",
+    email: "vikram.singh@email.com",
     phoneNumber: "(555) 567-8901",
     appliedPosition: "Product Manager",
     interviewDate: "2025-04-19T15:00:00",
